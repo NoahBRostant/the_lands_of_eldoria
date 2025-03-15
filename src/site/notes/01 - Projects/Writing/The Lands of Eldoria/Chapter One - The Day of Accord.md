@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter-one-the-day-of-accord/"}
 ---
 
+# Chapter One - The Day of Accord
+
 Thalos—the capital city of the Korvus Confederacy—was a marvel of stone and steel, a sprawling metropolis that rose like a crown from the heart of the confederation. Its streets were paved with smooth cobblestones, worn by centuries of footsteps, and its architecture was a seamless blend of ancient craftsmanship and modern ingenuity. Towering spires pierced the sky, their banners fluttering in the breeze, while intricate carvings adorned every archway and bridge. The city hummed with life, its people bustling about in preparation for the Day of Accord—a celebration marking 150 years of unity under the confederation’s banner.
 
 It's hard to think of the war as ancient history, a tall tale told by passionate patrons at the local taverns or parents whose fathers' fathers were caught in battle. But the stone on some of the buildings around the city still showed remnants of its past. Much of Thalos was new or re-imagined since then; however, some old buildings still stood, such as the repurposed barracks, which was now home to a market district—A well-designed plan to show the peace and neutrality they now found themselves in.
