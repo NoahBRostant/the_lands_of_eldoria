@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter-two/"}
 ---
 
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter One - The Day of Accord\|Previous Chapter]]
 # Chapter Two - 
 
 ---
