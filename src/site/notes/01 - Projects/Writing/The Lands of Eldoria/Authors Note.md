@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/authors-note/","tags":["Eldoria"]}
 ---
 
-[[01 - Projects/Writing/The Lands of Eldoria/Home\|Previous Chapter]]         [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]           [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Next Chapter]]
+[[01 - Projects/Writing/The Lands of Eldoria/Home\|Previous Chapter]]         [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]            [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Next Chapter]]
 
 # Authors Note
 
