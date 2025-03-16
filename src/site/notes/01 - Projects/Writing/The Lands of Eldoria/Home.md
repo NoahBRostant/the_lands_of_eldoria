@@ -3,7 +3,6 @@
 ---
 
 ![1000008466.jpg](/img/user/99%20-%20Meta/Assets/1000008466.jpg)
-# Home
 
 ---
 
