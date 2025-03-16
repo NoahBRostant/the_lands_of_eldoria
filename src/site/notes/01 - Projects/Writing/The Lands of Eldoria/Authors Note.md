@@ -19,7 +19,7 @@ Thank you again for your interest in this tale, and I hope that it will resonate
 <p style="text-align:center;">◇─◇────◆─◈─◆────◇─◇
 <br>
 <br>
-May Aethon's light guide you, Vesper's wisdom direct you, and Niamh's shadows protect you. Yet, remember, history favors the victor, not the righteous. The gods' favor is fleeting, and time's judgment is harsh.
+May Aethon's light guide you, Vesper's wisdom direct you, and Niamh's shadows protect you. Yet, remember, history favors the victor, not the righteous. The gods' favor is fleeting, and in time all things fade.
 <br>
 <br>
 <b>—✦ Lord Halford ✦—</b>
