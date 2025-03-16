@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter2/","tags":["Eldoria"]}
 ---
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[Chapter3\|Next Chapter]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Previous Chapter]]          [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]           [[Chapter3\|Next Chapter]]
 
 # Chapter Two - 
 
@@ -40,4 +40,4 @@ Theigon's thoughts were interrupted by the sound of hammers ringing out from a n
 
 But for Theigon, there was no ignoring the shadows. Not now, not when his life depended on understanding them. 
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[Chapter3\|Next Chapter]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Previous Chapter]]          [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]           [[Chapter3\|Next Chapter]]

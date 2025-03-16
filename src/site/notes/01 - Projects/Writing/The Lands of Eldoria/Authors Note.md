@@ -29,4 +29,4 @@ May Aethon's light guide you, Vesper's wisdom direct you, and Niamh's shadows pr
 
 
 
-[[01 - Projects/Writing/The Lands of Eldoria/Home\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Next Chapter]]
+[[01 - Projects/Writing/The Lands of Eldoria/Home\|Previous Chapter]]          [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]           [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Next Chapter]]
