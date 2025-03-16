@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter1/","tags":["Eldoria"]}
 ---
 
-[[01 - Projects/Writing/The Lands of Eldoria/Home\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|Next Chapter]]
+[[Chapter\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|Next Chapter]]
 
 # Chapter One - The Day of Accord
 

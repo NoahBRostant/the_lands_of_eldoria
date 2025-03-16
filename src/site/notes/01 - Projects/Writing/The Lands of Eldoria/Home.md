@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Home
@@ -25,8 +25,7 @@ In this world of shifting allegiances and hidden agendas, Theigon must navigate 
 | Chapter No. | Chapter Name      | Progress | Link                   |
 | ----------- | ----------------- | -------- | ---------------------- |
 |             | Home              | N/A      | [[01 - Projects/Writing/The Lands of Eldoria/Home\|Link]]         |
-|             | Authors Note      | WIP      | [[Authors Note\|Link]] |
-| 1           | The Day of Accord | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Link]]     |
+|             | Authors Note      | WIP      | [[Aut[[Chapter\|Link]]1           | The Day of Accord | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Link]]     |
 | 2           | TBD               | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|Link]]     |
 
 
