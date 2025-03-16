@@ -4,6 +4,14 @@
 
 # Home
 
+---
+
+In the heart of the Korvus Confederacy lies Thalos, a city of ancient stones and modern marvels, where the past and present converge in a tapestry of intrigue and deception. It is here that Theigon, a nomadic rogue with a penchant for survival, finds himself entangled in a web of power and betrayal. As the city celebrates the Day of Accord, a momentous occasion marking 150 years of unity, the shadows that have long lurked beneath its surface begin to stir.
+
+In this world of shifting allegiances and hidden agendas, Theigon must navigate the treacherous landscape of Thalos, where loyalty is a luxury and survival is a daily gamble. With his skills honed from years of living on the edge, he embarks on a journey that will challenge everything he thought he knew about himself and the world around him. As the city teeters on the brink of chaos, Theigon's quest for truth becomes a desperate bid for survival in a game where the stakes are higher than he ever imagined.
+
+## Links
+
 [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Get Started!]]
 [[01 - Projects/Writing/The Lands of Eldoria/Concept Gallery\|Concept Gallery]]
 
