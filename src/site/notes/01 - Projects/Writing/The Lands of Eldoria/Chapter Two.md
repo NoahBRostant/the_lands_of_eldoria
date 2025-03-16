@@ -5,6 +5,13 @@
 [[01 - Projects/Writing/The Lands of Eldoria/Chapter One - The Day of Accord\|Previous Chapter]] [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]] [[Chapter Three\|Next Chapter]]
 # Chapter Two - 
 
+
+| Hello       | Wow             |
+| ----------- | --------------- |
+| Sup Bitches | Yeeeeee Hawwwww |
+
+
+
 ---
 
 The next day came all too quickly, by the time he'd gotten home it had been far into the night. He had watched the moons from the window for a while before bed, mulling over the events of the day. Mostly trying to piece together parts of a puzzle that didn’t quite match. Assassins with unnatural speed, the convenience of those men working for Halford, Eridan's bounty, and... Halford.
