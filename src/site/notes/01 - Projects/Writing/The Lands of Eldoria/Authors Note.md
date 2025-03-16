@@ -8,7 +8,7 @@
 
 ---
 
-I want to extend my deepest gratitude to you for choosing to immerse yourself in the world of _The Lands of Eldoria and the Blessed Isles: Theigon_. It is a true honor to share this story with you, and I hope that it will transport you to realms both captivating and thought-provoking.
+I want to extend my deepest gratitude to you for choosing to immerse yourself in the world of _The Lands of Eldoria. It is a true honor to share this story with you, and I hope that it will transport you to realms both captivating and thought-provoking.
 
 However, I must also take a moment to acknowledge that this book contains mature themes and content that may not be suitable for all readers. Please be aware that you will encounter scenes of graphic torture, humiliation, and depravity, as well as scenes of a sexual nature. Additionally, the narrative includes significant violence, which may be disturbing for some.
 
