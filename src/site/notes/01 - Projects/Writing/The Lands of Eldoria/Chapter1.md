@@ -129,4 +129,4 @@ Halford paused, his back still to Theigon. For a moment, there was silence. Then
 
 With that, he exited the room, leaving Theigon to ponder the mysteries that had just unfolded.
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|Next Chapter]]
+[[01 - Projects/Writing/The Lands of Eldoria/Home\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[Chapter Three\|Next Chapter]]

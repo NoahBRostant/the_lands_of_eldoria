@@ -39,3 +39,5 @@ He decided to visit some of his old contacts, hoping to gather more information 
 Theigon's thoughts were interrupted by the sound of hammers ringing out from a nearby blacksmith. He paused, watching as the smith worked, his muscles flexing with each strike. It was a reminder that even amid intrigue and danger, life went on. People worked, lived, and loved, oblivious to the shadows that moved unseen.
 
 But for Theigon, there was no ignoring the shadows. Not now, not when his life depended on understanding them. 
+
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[Chapter Three\|Next Chapter]]
