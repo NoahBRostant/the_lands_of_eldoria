@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry"]}
 ---
 
 # Home
