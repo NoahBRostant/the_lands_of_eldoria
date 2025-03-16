@@ -3,7 +3,9 @@
 ---
 
 
-| Chapter No. | Chapter Name      | Progress | Link               |
-| ----------- | ----------------- | -------- | ------------------ |
-| 1           | The Day of Accord | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Link]] |
-| 2           | TBD               | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|Link]] |
+| Chapter No. | Chapter Name      | Progress | Link                   |
+| ----------- | ----------------- | -------- | ---------------------- |
+|             | Home              | N/A      | [[01 - Projects/Writing/The Lands of Eldoria/Home\|Link]]         |
+|             | Authors Note      | WIP      | [[Authors Note\|Link]] |
+| 1           | The Day of Accord | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Link]]     |
+| 2           | TBD               | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|Link]]     |
