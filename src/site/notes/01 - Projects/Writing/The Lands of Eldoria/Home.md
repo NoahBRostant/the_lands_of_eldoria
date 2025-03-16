@@ -4,4 +4,4 @@
 
 This is the home
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter One - The Day of Accord\|Chapter One - The Day of Accord]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Chapter1]]
