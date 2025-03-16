@@ -4,3 +4,4 @@
 
 ![AlbedoBase_XL_Create_a_fantasy_illustration_of_Thalos_the_capi_0.jpg](/img/user/99%20-%20Meta/Assets/AlbedoBase_XL_Create_a_fantasy_illustration_of_Thalos_the_capi_0.jpg)
 ![AlbedoBase_XL_Create_a_topdown_bird_seye_view_fantasy_illustra_1.jpg](/img/user/99%20-%20Meta/Assets/AlbedoBase_XL_Create_a_topdown_bird_seye_view_fantasy_illustra_1.jpg)
+![Default_A_frontfacing_shot_of_a_shieldemblem_of_a_powerful_uni_3_daf2ca89-f351-4958-bb68-c017bec5b7a1_0.png](/img/user/99%20-%20Meta/Assets/Default_A_frontfacing_shot_of_a_shieldemblem_of_a_powerful_uni_3_daf2ca89-f351-4958-bb68-c017bec5b7a1_0.png)
