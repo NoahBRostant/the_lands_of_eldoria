@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry"]}
 ---
 
+![1000008466.jpg](/img/user/99%20-%20Meta/Assets/1000008466.jpg)
 # Home
 
 ---
