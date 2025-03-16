@@ -4,6 +4,8 @@
 
 ---- [[01 - Projects/Writing/The Lands of Eldoria/Chapter One - The Day of Accord\|Previous Chapter]]    [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]    [[Chapter Three\|Next Chapter]] ----------
 
+--------------------------------------------------------------------------------------------------=
+
 # Chapter Two - 
 
 ---
