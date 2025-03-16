@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter2/"}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter2/","tags":["Eldoria"]}
 ---
 
 [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Previous Chapter]]        [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]          [[Chapter3\|Next Chapter]]
