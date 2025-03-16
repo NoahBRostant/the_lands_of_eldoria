@@ -31,30 +31,5 @@ In this world of shifting allegiances and hidden agendas, Theigon must navigate 
 </div></div>
 
 
-```contributionGraph
-title: ""
-graphType: default
-dateRangeValue: 180
-dateRangeType: LATEST_DAYS
-startOfWeek: "1"
-showCellRuleIndicators: true
-titleStyle:
-  textAlign: left
-  fontSize: 15px
-  fontWeight: normal
-dataSource:
-  type: ALL_TASK
-  value: ""
-  dateField:
-    type: FILE_MTIME
-  filters:
-    - id: "1742091111435"
-      type: CONTAINS_ANY_TAG
-      value:
-        - "#Eldoria"
-fillTheScreen: false
-enableMainContainerShadow: false
-cellStyleRules: []
 
-```
 
