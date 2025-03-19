@@ -16,7 +16,7 @@ He looked out of the window as the new dawn splayed golden rays across the rooft
 
 “Laying low...” he muttered to himself as he adorned his light armour, cloak, and daggers. His equipment had been modified to sport six daggers—two on either side of his ribs for easy access, with one on each leg in the slit he made between the boots and his trousers. A belt of various small bottles of tinctures and potions for quick use and some easy-access utility tools was fastened around his waist. A small pouch sat on his lower back under the cloak, holding any other small items that weren't needed at much speed. His hair was a dark brown, almost black, and his brown eyes matched with a similar shade. A scar just above his left eyebrow could be tucked under some locks of hair. Most wouldn't look twice at Theigon. His usual looks and nondescript features certainly helped him pass most people unnoticed.
 
-Theigon stepped out of his room into the hallway of the apartment and locked the door with his key, ensuring his wards were holding. He wasn't a wizard or sorcerer, but Halford was. Another smile edged across his face before he turned to start down the hall.
+Theigon stepped out of his room into the hallway of the apartment and locked the door with his key, ensuring his wards were holding. He wasn't a wizard or sorcerer, but Halford was. One of the benifits of working for a powerful wizard was the protections and wards that
 
 As he walked, Theigon couldn't help but think about his past missions for Halford. There had been times when he'd been asked to gather information from the shadows, to watch and wait without being seen. It was a skill he'd honed well, but it also left him with a sense of detachment, as if he was always on the outside looking in.
 

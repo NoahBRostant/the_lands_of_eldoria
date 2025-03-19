@@ -8,8 +8,7 @@
 
 ---
 
-Thalos—the capital city of the Korvus Confederacy—was a marvel of stone and steel, a sprawling metropolis that rose like a crown from the heart of the confederation. Its streets were paved with smooth cobblestones, worn by centuries of footsteps, and its architecture was a seamless blend of ancient craftsmanship and modern ingenuity. Towering spires pierced the sky, their banners fluttering in the breeze, while intricate carvings adorned every archway and bridge. The city hummed with life, its people bustling about in 
-preparation for the Day of Accord—a celebration marking 150 years of unity under the confederation’s banner.
+Thalos—the capital city of the Korvus Confederacy—was a marvel of stone and steel, a sprawling metropolis that rose like a crown from the heart of the confederation. Its streets were paved with smooth cobblestones, worn by centuries of footsteps, and its architecture was a seamless blend of ancient craftsmanship and modern ingenuity. Towering spires pierced the sky, their banners fluttering in the breeze, while intricate carvings adorned every archway and bridge. The city hummed with life, its people bustling about in preparation for the Day of Accord—a celebration marking 150 years of unity under the confederation’s banner.
 
 It’s hard to think of the war as ancient history, a tall tale told by passionate patrons at the local taverns or parents whose fathers’ fathers were caught in battle. However, the stone on some of the buildings around the city still showed remnants of its past. Much of Thalos was new or re-imagined since then; however, some old buildings still stood, such as the repurposed barracks, now home to a market district—A well-designed plan to show the peace and neutrality they found themselves in.
 
@@ -68,7 +67,7 @@ Theigon’s boots pounded against stone as he pursued his prey through twisting 
 
 His heart raced not just from exertion but from questions gnawing at his mind: Who would dare kill King Alden? And why? What did it mean for Korvus—and him? The thought sent a shiver, a mix of fear and determination, down his spine.
 
-The chase led deeper into Thalos’ underbelly—a maze where shadows ruled supreme—and Theigon knew he couldn’t afford to lose them now. However, as Theigon began to catch up to the assassin, another hooded figure stepped from the shadows and hurled something towards him. Theigon, without hesitation, drew a short blade sheathed by his left rib, slashing at the ball. It popped, sending powder everywhere, covering the street in its violet hue. Theigon stumbled through it before falling to one knee. Glancing up, he saw the two figures look back at him before his eyes clouded and darkness ensnared his senses…
+The chase led deeper into Thalos’ underbelly—a maze where shadows ruled supreme—and Theigon knew he couldn’t afford to lose them now. However, as Theigon began to catch up to the assassin, another hooded figure stepped from the shadows and hurled something towards him. Theigon, without hesitation, drew a short blade sheathed by his left rib, slashing at the ball. It popped, sending powder everywhere, a thick mist covering the street in its violet hue. Theigon stumbled through it before falling to one knee, gasping and clasping for his throat. Glancing up, he saw the two figures look back at him before his eyes clouded and darkness ensnared his senses…
 
 <p style="text-align:center;">◇─◇────◆─◈─◆────◇─◇</p>
 
@@ -84,17 +83,17 @@ Then another thought stirred in his mind… what if these were the assassins? Ma
 
 “What the fuck does Halford want with a lowlife like him? Perhaps he wants to beat him for answers,” sneered the second, an unmistakable hiss in his words.
 
-“By Helios, man, didn’t you hear a word I said?” Clinking armour could be heard as one of the men moved swiftly before the other, closing the distance between them with such speed. “Lord Halford hired us to take care of some people for him. There was no mention of him.” an arm gestured towards Theigon. “The likelihood is he’ll just turn the scrawny trash over to the guards.” There was a long pause before the other man slackened and took a step back.
+“By Vespas’ grace, man, didn’t you hear a word I said?” Clinking armour could be heard as one of the men moved swiftly before the other, closing the distance between them with such speed. “Lord Halford hired us to take care of some people for him. There was no mention of him.” an arm gestured towards Theigon. “The likelihood is he’ll just turn the scrawny trash over to the guards.” There was a long pause before the other man slackened and took a step back.
 
 Theigon grimaced as a hand suddenly grabbed his hair and yanked his head back to look up at one of the men.
 
-“Oh, look, he’s awake,” Theigon’s head hammered with a throbbing pain as nausea set in. He tried to speak to his captors, but Theigon’s mouth felt dry like his innards were coated in cinnamon powder or dust. Searing pain coursed up his neck as bile rose to burn him from the inside.
+“Oh, look, he’s awake,” Theigon’s head hammered with a throbbing pain as nausea set in. He tried to speak to his captors, but Theigon’s mouth felt dry, like his innards were coated in cinnamon powder or dust. Searing pain coursed up his neck as bile rose to burn him from the inside.
 
 “Fuck me!” he thought. “That powder bomb must have been some powerful toxin.”
 
 As he struggled to speak, Theigon’s mind raced with questions. What did Lord Halford want with him? And who were these men? The one who seemed to know Halford spoke with a tone of respect, but the other’s malice was palpable. Theigon’s thoughts were clouded by pain and confusion, but he knew he had to stay alert if he was going to survive this.
 
-Theigon’s gaze met the man holding his hair, and for a moment, their eyes locked. Theigon saw a glimmer of recognition there, but it was quickly replaced by indifference. The man released his grip, letting Theigon’s head fall back onto the cold stone floor.
+Gritting his teeth, Theigon’s gaze met the man holding his hair, and for a moment, their eyes locked. Theigon saw a glimmer of recognition there, but it was quickly replaced by indifference. The man released his grip, letting Theigon’s head fall back onto the cold stone floor.
 
 “Get him up,” the first man ordered, his voice firm but not unkind. “Lord Halford is waiting.”
 
@@ -110,7 +109,7 @@ Theigon was thrust into one of the chairs as the door across the room opened to 
 
 “Leave us,” he said, waving his hand. The two men nodded and left the room, closing the door behind them.
 
-Lord Halford was a tall, dark-skinned man with a soft face. His hazel eyes, flecked with green—a testament to his magical prowess—held a warmth that seemed almost out of place in the cold, damp surroundings. His hair was black and swept back, revealing a face that was both strong and gentle. His gaze fluttered across Theigon as though inspecting for damage, but there was a lingering quality, a softness... hinting...
+Lord Halford was a tall, dark-skinned man with a soft face. He was older, perhaps in his late 20s. His hazel eyes, flecked with green—a testament to his magical prowess—held a warmth that seemed almost out of place in the cold, damp surroundings. His hair was black and swept back, revealing a face that was both strong and gentle. His gaze fluttered across Theigon as though inspecting for damage, but there was a lingering quality, a softness... hinting...
 
 “Drink,” he said sharply, handing Theigon the jug without bothering to pour it into a glass. Theigon grasped the jug and began to empty it, almost breathing it in. After setting it aside, Halford’s hand clasped his face, lifting it to meet his gaze. He looked intently into Theigon’s eyes as if delving into the soul. For an insufferable second, they just stared at each other, the tension between them palpable. Halford stepped back, dropping his hand, but his eyes lingered.
 
