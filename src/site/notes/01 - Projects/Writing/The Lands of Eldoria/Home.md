@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry"]}
 ---
 
 ![1000008466.jpg](/img/user/99%20-%20Meta/Assets/1000008466.jpg)
@@ -13,6 +13,7 @@ In this world of shifting allegiances and hidden agendas, Theigon must navigate 
 ## Links
 
 [[01 - Projects/Writing/The Lands of Eldoria/Authors Note\|Get Started!]]
+[[01 - Projects/Writing/The Lands of Eldoria/Licence\|Licence]]
 [[01 - Projects/Writing/The Lands of Eldoria/Concept Gallery\|Concept Gallery]]
 
 ```audio-player
