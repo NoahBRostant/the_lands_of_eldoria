@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/licence/"}
 ---
 
+# Licence
+
+---
+
 All Rights Reserved
 
 Copyright (c) 2025 Noah Bradford Rostant
