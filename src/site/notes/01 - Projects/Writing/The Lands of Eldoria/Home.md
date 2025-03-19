@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry"]}
 ---
 
 ![1000008466.jpg](/img/user/99%20-%20Meta/Assets/1000008466.jpg)
@@ -15,10 +15,6 @@ In this world of shifting allegiances and hidden agendas, Theigon must navigate 
 [[01 - Projects/Writing/The Lands of Eldoria/Authors Note\|Get Started!]]
 [[01 - Projects/Writing/The Lands of Eldoria/Licence\|Licence]]
 [[01 - Projects/Writing/The Lands of Eldoria/Concept Gallery\|Concept Gallery]]
-
-```audio-player
-![[ElevenLabs_markdowntohtml.com(1).html(1).mp3]]
-```
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/01-projects/writing/the-lands-of-eldoria/index/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
