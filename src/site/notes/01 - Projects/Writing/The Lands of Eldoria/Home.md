@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 ![1000008466.jpg](/img/user/99%20-%20Meta/Assets/1000008466.jpg)
@@ -30,8 +30,8 @@ In this world of shifting allegiances and hidden agendas, Theigon must navigate 
 | Chapter No. | Chapter Name      | Progress | Link                   | ~ Reading Time |
 | ----------- | ----------------- | -------- | ---------------------- | -------------- |
 |             | Home              | N/A      | [[01 - Projects/Writing/The Lands of Eldoria/Home\|Link]]         | N/A            |
-|             | Authors Note      | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Authors Note\|Link]] |                |
-| 1           | The Day of Accord | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Link]]     |                |
+|             | Authors Note      | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Authors Note\|Link]] | 50s            |
+| 1           | The Day of Accord | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|Link]]     | 13m 28s        |
 | 2           | The Dawn of Unity | WIP      | [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|Link]]     |                |
 | 3           | TBD               |          |                        |                |
 
