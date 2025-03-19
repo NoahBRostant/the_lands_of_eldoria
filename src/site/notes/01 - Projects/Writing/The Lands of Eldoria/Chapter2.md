@@ -1,43 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter2/","tags":["Eldoria"]}
+{"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter2/"}
 ---
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[Chapter3\|🡆]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|🡆]]
 
-# Chapter Two - 
+# Chapter Two - The Dawn of Unity
 
 ---
 
-The next day came all too quickly, by the time he'd gotten home it had been far into the night. He had watched the moons from the window for a while before bed, mulling over the events of the day. Mostly trying to piece together parts of a puzzle that didn’t quite match. Assassins with unnatural speed, the convenience of those men working for Halford, Eridan's bounty, and... Halford.
+Elara stood atop the grand balcony of the royal palace, her ivory hair catching the morning light as it cascaded down her shoulders. Below her stretched Thalos, the heart of the newly unified Korvus Confederacy, a city that bore the scars of war yet pulsed with the promise of peace. The treaty had been signed mere hours ago, and for the first time in decades, silence reigned—not the silence of fear, but of anticipation. The bustling streets below were still, as if the city itself held its breath.
 
-Theigon thought of the caring gaze of his former client—a man who was in constant need of the inside and outs of his friends and foes. A man who had hired him three years ago to be his scout, his secret keeper, his spy. It had only been the last eight months that he'd ever had the chance to meet Halford in person. Most of the time their talks were through missives. “Always nice to put a face to the name,” Theigon smiled to himself, remembering the first time they met.
+Beside her stood Mortanir Corvanos, his imposing figure cloaked in crimson and gold. He had been her most trusted ally throughout the war, a man whose cunning and ruthlessness had turned tides in battles that seemed unwinnable. His Brotherhood had been instrumental in ending the conflict, their precision and efficiency unmatched. Elara glanced at him briefly, her gaze softening as she considered the role he had played in forging this fragile peace.
 
-He looked out of the window as the new dawn splayed golden rays across the rooftops.
+“They will call this day a triumph,” Mortanir said, his voice deep and steady. “But triumphs are fleeting. The wounds of war do not heal overnight.”
 
-“Laying low...” he muttered to himself as he adorned his light armour, cloak, and daggers. His equipment had been modified to sport six daggers—two on either side of his ribs for easy access, with one on each leg in the slit he made between the boots and his trousers. A belt of various small bottles of tinctures and potions for quick use and some easy-access utility tools was fastened around his waist. A small pouch sat on his lower back under the cloak, holding any other small items that weren't needed at much speed. His hair was a dark brown, almost black, and his brown eyes matched with a similar shade. A scar just above his left eyebrow could be tucked under some locks of hair. Most wouldn't look twice at Theigon. His usual looks and nondescript features certainly helped him pass most people unnoticed.
+Elara nodded, her eyes fixed on the city below. “That is why we must act swiftly. The council will be our cornerstone—a representation of unity among the factions that once tore this land apart. Nine voices to guide Korvus forward: seven for the houses that fought for their provinces, one for the crown, and one for your Brotherhood.”
 
-Theigon stepped out of his room into the hallway of the apartment and locked the door with his key, ensuring his wards were holding. He wasn't a wizard or sorcerer, but Halford was. One of the benifits of working for a powerful wizard was the protections and wards that
+Mortanir’s lips curved into a faint smile. “A bold move, granting my Brotherhood a seat among nobles.”
 
-As he walked, Theigon couldn't help but think about his past missions for Halford. There had been times when he'd been asked to gather information from the shadows, to watch and wait without being seen. It was a skill he'd honed well, but it also left him with a sense of detachment, as if he was always on the outside looking in.
+“It is no less than you deserve,” Elara replied firmly. “Without your efforts, this treaty would have been impossible.”
 
-Theigon stopped dead in his tracks as a large, hulking figure walked towards him, his eyes fixed on him as he made his way towards Theigon. The man came within five feet of Theigon before stopping. Crossing his arms, Theigon clasped two daggers sheathed by his ribs.
+Her gaze swept across Thalos—the repurposed barracks now bustling with merchants, the charred remnants of old fortifications standing as silent reminders of past battles. She thought of each house that had signed their name to the treaty: Valtor’s mountain lords, Calanthor’s sea captains, Arinthal’s cavalry masters… each faction had fought tooth and nail for dominance. And now they would sit together under one banner.
 
-“Are you Theigon?” the man spoke with power and authority but lowered his voice so no one could hear.
+“The council must understand,” Elara continued, “that unity requires sacrifice. New laws will be enacted to ensure fairness—trade regulations to prevent monopolies, land reforms to aid those displaced by war. But there will be resistance.”
 
-“Who's asking?” Theigon replied, ready to stab two daggers into the massive man. He couldn't take him down now, not with how powerful he looked and how he was at least a foot and a half taller than Theigon. The man smiled, not a grimace or grin, but also not soft or endearing. An acknowledgement. He pulled out a rolled-up paper and offered it to him. Theigon took the paper in one hand, holding the still-sheathed dagger in the other, and unfurled it. It was a wanted poster marked as 10,000 gold with a roughly drawn face resembling his own.
+Mortanir’s gaze darkened slightly as he spoke. “Resistance often breeds rebellion. And rebellion… well, you know how quickly it can spread.”
 
-The man chuffed and walked past, placing a hand gently on Theigon's shoulder, tapping lightly before unlocking a door to step inside.
+Elara turned to face him fully now, her expression resolute. “That is why I need you to remain vigilant. Your Brotherhood will be our shield against those who seek to unravel what we have built.”
 
-“You're not going to claim it?” Theigon asked, desperately trying to hold his nerve and level his voice.
+Mortanir inclined his head slightly in acknowledgment but said nothing more.
 
-“I only pick fights I can win,” the door shut behind him. Theigon's heart pounded in his chest as confusion hit him. “That guy could have crushed me,” he thought as he made his way down the steps to the street below.
+As Elara looked out once more over Thalos, she felt a mixture of pride and unease settle in her chest. The treaty was signed; the council was formed; yet peace felt like a fragile thread stretched taut between opposing forces. She thought of Queen Elara’s legacy—how history might remember her as either a unifier or a tyrant.
 
-As he walked, Theigon couldn't shake the feeling that he was being watched. The city seemed quieter than usual, the streets less crowded. It was as if everyone was waiting for something to happen, for the next move in a game that Theigon didn't fully understand.
+And then she thought of Mortanir—her trusted advisor and emissary—and wondered if she had placed too much faith in a man whose ambitions might one day eclipse her own.
 
-He decided to visit some of his old contacts, hoping to gather more information about the bounty and Eridan's motives. But as he navigated the winding streets, he couldn't help but wonder what Halford's role was in all this. Was he truly just a concerned noble, or was there more to it?
-
-Theigon's thoughts were interrupted by the sound of hammers ringing out from a nearby blacksmith. He paused, watching as the smith worked, his muscles flexing with each strike. It was a reminder that even amid intrigue and danger, life went on. People worked, lived, and loved, oblivious to the shadows that moved unseen.
-
-But for Theigon, there was no ignoring the shadows. Not now, not when his life depended on understanding them. 
-
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[Chapter3\|🡆]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|🡆]]
