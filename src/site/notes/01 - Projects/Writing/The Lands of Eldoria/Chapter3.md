@@ -8,7 +8,7 @@
 
 ---
 
-The next day came all too quickly, by the time he'd gotten home it had been far into the night. He had watched the moons from the window for a while before bed, mulling over the events of the day. Mostly trying to piece together parts of a puzzle that didn’t quite match. Assassins with unnatural speed, the convenience of those men working for Halford, Eridan's bounty, and... Halford.
+The next day came all too quickly, by the time he'd gotten home it had been far into the night. Theigon had watched the moons from the window for a while before bed, mulling over the events of the day. Mostly trying to piece together parts of a puzzle that didn’t quite match. Assassins with unnatural speed, the convenience of those men working for Halford, Eridan's bounty, and... Halford.
 
 Theigon thought of the caring gaze of his former client—a man who was in constant need of the inside and outs of his friends and foes. A man who had hired him three years ago to be his scout, his secret keeper, his spy. It had only been the last eight months that he'd ever had the chance to meet Halford in person. Most of the time their talks were through missives. “Always nice to put a face to the name,” Theigon smiled to himself, remembering the first time they met.
 
