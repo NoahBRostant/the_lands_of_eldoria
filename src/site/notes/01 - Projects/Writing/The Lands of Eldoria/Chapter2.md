@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/chapter2/"}
 ---
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|🡆]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|🡆]]
 
 # Chapter Two - The Dawn of Unity
 
@@ -34,4 +34,4 @@ As Elara looked out once more over Thalos, she felt a mixture of pride and uneas
 
 And then she thought of Mortanir—her trusted advisor and emissary—and wondered if she had placed too much faith in a man whose ambitions might one day eclipse her own.
 
-[[01 - Projects/Writing/The Lands of Eldoria/Chapter2\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|🡆]]
+[[01 - Projects/Writing/The Lands of Eldoria/Chapter1\|🡄]]                 [[01 - Projects/Writing/The Lands of Eldoria/Index\|Index]]                 [[01 - Projects/Writing/The Lands of Eldoria/Chapter3\|🡆]]
