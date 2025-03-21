@@ -14,7 +14,7 @@ Beside her stood Mortanir Corvanos, his imposing figure cloaked in crimson and g
 
 “They will call this day a triumph,” Mortanir said, his voice deep and steady. “But triumphs are fleeting. The wounds of war do not heal overnight.”
 
-Elara nodded, her eyes fixed on the city below. “That is why we must act swiftly. The council will be our cornerstone—representing unity among the factions that once tore this land apart. Nine voices to guide Korvus forward: seven for the houses that fought for their provinces, one for the crown---and one for your Brotherhood.”
+Elara nodded, her eyes fixed on the city below. “That is why we must act swiftly. The council will be our cornerstone—representing unity among the factions that once tore this land apart. Nine voices to guide Korvus forward: seven for the houses that fought for their provinces, one for the crown—and one for your Brotherhood.”
 
 Mortanir’s lips curved into a faint smile. “A bold move, granting my Brotherhood a seat among nobles.”
 
