@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/01-projects/writing/the-lands-of-eldoria/home/","tags":["Eldoria","gardenEntry"]}
 ---
 
-![1000008466.jpg](/img/user/99%20-%20Meta/Assets/1000008466.jpg)
+![universal_upscale_0_1bb5516e-8a63-49e5-90f9-9feeb86763ef_0.png](/img/user/99%20-%20Meta/Assets/universal_upscale_0_1bb5516e-8a63-49e5-90f9-9feeb86763ef_0.png)
 
 ---
 
